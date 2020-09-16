@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>c:\users\jovanni\Documents\Atmel Studio\7.0\try\try\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\try\try\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\try\try\Debug\try.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>try.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>try.map</FILE>
+  <FILE>try.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\try\try\main.asm</FILE><LINE>23</LINE></MAIN>
+  <DELAY><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\try\try\main.asm</FILE><LINE>51</LINE></DELAY>
+  <UNOMINUTES><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\try\try\main.asm</FILE><LINE>36</LINE></UNOMINUTES>
+  <RESTART><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\try\try\main.asm</FILE><LINE>47</LINE></RESTART>
+  <DDELAY><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\try\try\main.asm</FILE><LINE>59</LINE></DDELAY>
+  <DDDELAY><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\try\try\main.asm</FILE><LINE>67</LINE></DDDELAY>
+ </LABELS>
+</ASSEMBLER_INFO>

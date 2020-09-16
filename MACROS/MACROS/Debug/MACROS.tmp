@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\MACROS\MACROS\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\MACROS\MACROS\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\MACROS\MACROS\Debug\MACROS.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>MACROS.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>MACROS.map</FILE>
+  <FILE>MACROS.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INDIVIDUAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\MACROS\MACROS\main.asm</FILE><LINE>6</LINE></INDIVIDUAL>
+  <ARRAY><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\MACROS\MACROS\main.asm</FILE><LINE>7</LINE></ARRAY>
+  <ONEBYTE><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\MACROS\MACROS\main.asm</FILE><LINE>8</LINE></ONEBYTE>
+  <TWOBYTE><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\MACROS\MACROS\main.asm</FILE><LINE>9</LINE></TWOBYTE>
+  <QUOTIENT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\MACROS\MACROS\main.asm</FILE><LINE>11</LINE></QUOTIENT>
+  <REMAINDER><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\MACROS\MACROS\main.asm</FILE><LINE>12</LINE></REMAINDER>
+  <NUMBER><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\MACROS\MACROS\main.asm</FILE><LINE>13</LINE></NUMBER>
+  <TEMPORARY><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\MACROS\MACROS\main.asm</FILE><LINE>16</LINE></TEMPORARY>
+  <INDEX><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\MACROS\MACROS\main.asm</FILE><LINE>17</LINE></INDEX>
+  <HALT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\MACROS\MACROS\main.asm</FILE><LINE>487</LINE></HALT>
+ </LABELS>
+</ASSEMBLER_INFO>

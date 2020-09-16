@@ -1,0 +1,85 @@
+.include "m2560def.inc"
+
+.CSEG
+.ORG 0X0000
+.DEF temp = r16
+.EQU start = 0x0F
+.DEF count = r17
+.DEF index = r18
+.DEF counter = r19
+
+CLR counter
+CLR index
+CLR count
+SER temp
+OUT PORTC, temp
+OUT DDRC, temp
+OUT PORTD, temp
+OUT PORTC, temp
+
+CLR temp
+OUT PORTD, temp
+LDI temp, 0x0F
+OUT PORTC, temp
+
+//DECREMENTING
+SW0:
+SBIC PIND, 0
+RJMP SW1
+CLR count
+RCALL DELAY
+DEC temp
+CPI temp, 0xFF ; IF below 00
+BREQ BALIK
+OUT PORTC, temp
+RJMP SW1
+
+BALIK:
+LDI temp, 0x0F
+OUT PORTC, temp
+RJMP SW0
+
+//INCREMENTING
+SW1:
+SBIC PIND, 1
+RJMP SW0
+CLR count
+RCALL DELAY
+INC temp
+CPI temp, 0x10 ; IF above 15
+BREQ NAIK
+OUT PORTC, temp
+RJMP SW0
+
+NAIK:
+LDI temp, 0
+OUT PORTC, temp
+RJMP SW1
+
+//DELAY FUNCTIONALITY
+DELAY:
+CLR index
+INC count
+NOP
+NOP
+RCALL DDELAY
+CPI count, 255
+BRLO DELAY
+RET
+
+DDELAY:
+CLR counter
+INC index
+RCALL DDDELAY
+NOP
+NOP
+CPI index, 255
+BRLO DDELAY
+RET
+
+DDDELAY:
+INC counter
+NOP
+CPI counter, 10
+BRLO DDDELAY
+RET

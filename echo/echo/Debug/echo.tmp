@@ -1,0 +1,50 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\Debug\echo.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>echo.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>echo.map</FILE>
+  <FILE>echo.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>44</LINE></RESET>
+  <lcd_command><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>164</LINE></lcd_command>
+  <lcd_wait><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>194</LINE></lcd_wait>
+  <sleep_5ms><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>232</LINE></sleep_5ms>
+  <MAIN><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>67</LINE></MAIN>
+  <main_delay><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>240</LINE></main_delay>
+  <COLLOOP><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>72</LINE></COLLOOP>
+  <DELAY><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>76</LINE></DELAY>
+  <NEXTCOL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>99</LINE></NEXTCOL>
+  <ROWLOOP><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>87</LINE></ROWLOOP>
+  <SKIPCONV><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>94</LINE></SKIPCONV>
+  <CONVERT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>107</LINE></CONVERT>
+  <LETTERS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>114</LINE></LETTERS>
+  <SYMBOLS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>119</LINE></SYMBOLS>
+  <NUMBERS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>139</LINE></NUMBERS>
+  <PRINT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>147</LINE></PRINT>
+  <STAR><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>129</LINE></STAR>
+  <ZERO><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>132</LINE></ZERO>
+  <HASH><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>135</LINE></HASH>
+  <lcd_data><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>177</LINE></lcd_data>
+  <STARTOVER><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>154</LINE></STARTOVER>
+  <lcd_wait_loop><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>200</LINE></lcd_wait_loop>
+  <sleep_1ms><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>220</LINE></sleep_1ms>
+  <delayloop_1ms><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\echo\echo\main.asm</FILE><LINE>225</LINE></delayloop_1ms>
+ </LABELS>
+</ASSEMBLER_INFO>

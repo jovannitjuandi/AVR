@@ -1,0 +1,78 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\Debug\printnumbers.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>printnumbers.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>printnumbers.map</FILE>
+  <FILE>printnumbers.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <NUMBER><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>8</LINE></NUMBER>
+  <TEMPO><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>9</LINE></TEMPO>
+  <TOTAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>10</LINE></TOTAL>
+  <CURSIGN><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>11</LINE></CURSIGN>
+  <ARRAY><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>12</LINE></ARRAY>
+  <SIGNS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>13</LINE></SIGNS>
+  <VALID><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>14</LINE></VALID>
+  <QUOTIENT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>15</LINE></QUOTIENT>
+  <INDIVIDUAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>16</LINE></INDIVIDUAL>
+  <RESET><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>316</LINE></RESET>
+  <lcd_command><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>589</LINE></lcd_command>
+  <lcd_wait><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>619</LINE></lcd_wait>
+  <sleep_5ms><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>657</LINE></sleep_5ms>
+  <sleep_1ms><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>645</LINE></sleep_1ms>
+  <MAIN><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>355</LINE></MAIN>
+  <main_delay><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>665</LINE></main_delay>
+  <COLLOOP><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>360</LINE></COLLOOP>
+  <DELAY><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>364</LINE></DELAY>
+  <NEXTCOL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>387</LINE></NEXTCOL>
+  <ROWLOOP><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>375</LINE></ROWLOOP>
+  <SKIPCONV><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>382</LINE></SKIPCONV>
+  <ACTION><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>395</LINE></ACTION>
+  <LETTERS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>405</LINE></LETTERS>
+  <SYMBOLING><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>402</LINE></SYMBOLING>
+  <NUMBERS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>474</LINE></NUMBERS>
+  <SYMBOLS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>449</LINE></SYMBOLS>
+  <MINUS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>424</LINE></MINUS>
+  <PLUS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>432</LINE></PLUS>
+  <NOT_VALID><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>419</LINE></NOT_VALID>
+  <EQUALLING><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>422</LINE></EQUALLING>
+  <EQUAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>440</LINE></EQUAL>
+  <PRINT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>492</LINE></PRINT>
+  <SEPARATE_TOTAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>496</LINE></SEPARATE_TOTAL>
+  <STAR><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>459</LINE></STAR>
+  <ZERO><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>464</LINE></ZERO>
+  <HASH><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>468</LINE></HASH>
+  <INVALIDING><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>490</LINE></INVALIDING>
+  <INVALIDINPUT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>573</LINE></INVALIDINPUT>
+  <lcd_data><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>602</LINE></lcd_data>
+  <SUBTRACT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>512</LINE></SUBTRACT>
+  <INVERT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>507</LINE></INVERT>
+  <REPEAT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>517</LINE></REPEAT>
+  <SAVENUMBER><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>532</LINE></SAVENUMBER>
+  <MORETEN><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>527</LINE></MORETEN>
+  <JUMP_SUBTRACT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>570</LINE></JUMP_SUBTRACT>
+  <PRINT_TOTAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>542</LINE></PRINT_TOTAL>
+  <PRINTNOW><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>545</LINE></PRINTNOW>
+  <finish_PRINT_TOTAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>565</LINE></finish_PRINT_TOTAL>
+  <print_sign><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>582</LINE></print_sign>
+  <HALT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>569</LINE></HALT>
+  <lcd_wait_loop><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>625</LINE></lcd_wait_loop>
+  <delayloop_1ms><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\printnumbers\printnumbers\main.asm</FILE><LINE>650</LINE></delayloop_1ms>
+ </LABELS>
+</ASSEMBLER_INFO>

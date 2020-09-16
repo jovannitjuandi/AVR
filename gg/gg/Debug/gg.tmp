@@ -1,0 +1,68 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\Debug\gg.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>gg.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>gg.map</FILE>
+  <FILE>gg.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <poly><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>42</LINE></poly>
+  <x_var><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>43</LINE></x_var>
+  <i><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>44</LINE></i>
+  <n><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>45</LINE></n>
+  <result><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>46</LINE></result>
+  <sign_var><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>47</LINE></sign_var>
+  <sign_result><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>48</LINE></sign_result>
+  <sign_expect><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>49</LINE></sign_expect>
+  <once><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>50</LINE></once>
+  <main><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>60</LINE></main>
+  <constant><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>54</LINE></constant>
+  <variable_const><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>55</LINE></variable_const>
+  <counter><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>56</LINE></counter>
+  <array_size><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>58</LINE></array_size>
+  <neg_sign_var><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>73</LINE></neg_sign_var>
+  <done_sign_var><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>78</LINE></done_sign_var>
+  <neg_sign_poly><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>103</LINE></neg_sign_poly>
+  <done_sign_poly><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>107</LINE></done_sign_poly>
+  <poly_loop><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>121</LINE></poly_loop>
+  <end_poly_loop_label><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>118</LINE></end_poly_loop_label>
+  <end_poly_loop><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>327</LINE></end_poly_loop>
+  <test_sign_result><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>143</LINE></test_sign_result>
+  <test_sign_result_1><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>134</LINE></test_sign_result_1>
+  <case2_expect><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>155</LINE></case2_expect>
+  <case1_expect><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>151</LINE></case1_expect>
+  <start_algor><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>162</LINE></start_algor>
+  <booth_alorithimic_loop><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>191</LINE></booth_alorithimic_loop>
+  <end_of_booth_alorithimic_loop_label><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>187</LINE></end_of_booth_alorithimic_loop_label>
+  <end_of_booth_alorithimic_loop><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>246</LINE></end_of_booth_alorithimic_loop>
+  <test_Q_neg_1><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>213</LINE></test_Q_neg_1>
+  <do_shifting_pro><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>224</LINE></do_shifting_pro>
+  <Q_neg_1_to_be_1><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>236</LINE></Q_neg_1_to_be_1>
+  <Q_neg_1_to_be_0><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>231</LINE></Q_neg_1_to_be_0>
+  <decrement_n><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>241</LINE></decrement_n>
+  <negative_result_return><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>266</LINE></negative_result_return>
+  <check_ow><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>271</LINE></check_ow>
+  <excute_check_ow><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>277</LINE></excute_check_ow>
+  <skip_check_ow><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>291</LINE></skip_check_ow>
+  <over_f><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>284</LINE></over_f>
+  <subtraction><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>309</LINE></subtraction>
+  <done_if_sign><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>316</LINE></done_if_sign>
+  <end><FILE>c:\users\jovanni\Documents\Atmel Studio\7.0\gg\gg\main.asm</FILE><LINE>333</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>

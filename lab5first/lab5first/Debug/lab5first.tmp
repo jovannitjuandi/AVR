@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\Debug\lab5first.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab5first.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab5first.map</FILE>
+  <FILE>lab5first.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SPEED><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>159</LINE></SPEED>
+  <HOLES><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>160</LINE></HOLES>
+  <INDEX><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>161</LINE></INDEX>
+  <INTERRUPT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>162</LINE></INTERRUPT>
+  <TEMPORARY><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>163</LINE></TEMPORARY>
+  <REMAINDER><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>164</LINE></REMAINDER>
+  <INDIVIDUAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>165</LINE></INDIVIDUAL>
+  <RESET><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>178</LINE></RESET>
+  <EXT_INT2><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>306</LINE></EXT_INT2>
+  <Timer0OVF><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>235</LINE></Timer0OVF>
+  <lcd_command><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>320</LINE></lcd_command>
+  <lcd_wait><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>350</LINE></lcd_wait>
+  <sleep_5ms><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>388</LINE></sleep_5ms>
+  <MAIN><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>314</LINE></MAIN>
+  <CHECK_SPEED><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>244</LINE></CHECK_SPEED>
+  <FINISH_OVF><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>303</LINE></FINISH_OVF>
+  <lcd_data><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>333</LINE></lcd_data>
+  <lcd_wait_loop><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>356</LINE></lcd_wait_loop>
+  <sleep_1ms><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>376</LINE></sleep_1ms>
+  <delayloop_1ms><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>381</LINE></delayloop_1ms>
+  <THREETE><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>396</LINE></THREETE>
+  <REPEAT_NOP><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab5first\lab5first\main.asm</FILE><LINE>398</LINE></REPEAT_NOP>
+ </LABELS>
+</ASSEMBLER_INFO>

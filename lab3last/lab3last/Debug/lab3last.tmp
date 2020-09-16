@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3last\lab3last\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3last\lab3last\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3last\lab3last\Debug\lab3last.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab3last.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab3last.map</FILE>
+  <FILE>lab3last.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <tcount><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3last\lab3last\main.asm</FILE><LINE>10</LINE></tcount>
+  <RESET><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3last\lab3last\main.asm</FILE><LINE>18</LINE></RESET>
+  <Timer0OVF><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3last\lab3last\main.asm</FILE><LINE>45</LINE></Timer0OVF>
+  <main><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3last\lab3last\main.asm</FILE><LINE>79</LINE></main>
+  <incSecond><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3last\lab3last\main.asm</FILE><LINE>55</LINE></incSecond>
+  <BACK><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3last\lab3last\main.asm</FILE><LINE>52</LINE></BACK>
+  <incMinute><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3last\lab3last\main.asm</FILE><LINE>65</LINE></incMinute>
+  <AGAIN><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3last\lab3last\main.asm</FILE><LINE>75</LINE></AGAIN>
+  <END><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3last\lab3last\main.asm</FILE><LINE>80</LINE></END>
+ </LABELS>
+</ASSEMBLER_INFO>

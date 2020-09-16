@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\examprac\hw3.2\hw3.2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\examprac\hw3.2\hw3.2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\examprac\hw3.2\hw3.2\Debug\hw3.2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>hw3.2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>hw3.2.map</FILE>
+  <FILE>hw3.2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SUM><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\examprac\hw3.2\hw3.2\main.asm</FILE><LINE>25</LINE></SUM>
+  <HALT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\examprac\hw3.2\hw3.2\main.asm</FILE><LINE>22</LINE></HALT>
+  <EXIT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\examprac\hw3.2\hw3.2\main.asm</FILE><LINE>42</LINE></EXIT>
+  <GO_ELSE><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\examprac\hw3.2\hw3.2\main.asm</FILE><LINE>47</LINE></GO_ELSE>
+  <EPILOGUE><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\examprac\hw3.2\hw3.2\main.asm</FILE><LINE>58</LINE></EPILOGUE>
+ </LABELS>
+</ASSEMBLER_INFO>

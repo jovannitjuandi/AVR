@@ -1,0 +1,77 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\Debug\calculator.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>calculator.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>calculator.map</FILE>
+  <FILE>calculator.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <NUMBER><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>8</LINE></NUMBER>
+  <TEMPO><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>9</LINE></TEMPO>
+  <TOTAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>10</LINE></TOTAL>
+  <CURSIGN><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>11</LINE></CURSIGN>
+  <ARRAY><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>12</LINE></ARRAY>
+  <SIGNS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>13</LINE></SIGNS>
+  <VALID><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>14</LINE></VALID>
+  <QUOTIENT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>15</LINE></QUOTIENT>
+  <INDIVIDUAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>16</LINE></INDIVIDUAL>
+  <RESET><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>315</LINE></RESET>
+  <lcd_command><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>588</LINE></lcd_command>
+  <lcd_wait><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>618</LINE></lcd_wait>
+  <sleep_5ms><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>656</LINE></sleep_5ms>
+  <sleep_1ms><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>644</LINE></sleep_1ms>
+  <MAIN><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>354</LINE></MAIN>
+  <main_delay><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>664</LINE></main_delay>
+  <COLLOOP><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>359</LINE></COLLOOP>
+  <DELAY><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>363</LINE></DELAY>
+  <NEXTCOL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>386</LINE></NEXTCOL>
+  <ROWLOOP><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>374</LINE></ROWLOOP>
+  <SKIPCONV><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>381</LINE></SKIPCONV>
+  <ACTION><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>394</LINE></ACTION>
+  <LETTERS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>407</LINE></LETTERS>
+  <SYMBOLING><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>404</LINE></SYMBOLING>
+  <NUMBERS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>473</LINE></NUMBERS>
+  <SYMBOLS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>448</LINE></SYMBOLS>
+  <MINUS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>423</LINE></MINUS>
+  <PLUS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>431</LINE></PLUS>
+  <EQUALLING><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>421</LINE></EQUALLING>
+  <EQUAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>439</LINE></EQUAL>
+  <PRINT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>491</LINE></PRINT>
+  <SEPARATE_TOTAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>495</LINE></SEPARATE_TOTAL>
+  <STAR><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>458</LINE></STAR>
+  <ZERO><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>463</LINE></ZERO>
+  <HASH><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>467</LINE></HASH>
+  <INVALIDING><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>489</LINE></INVALIDING>
+  <INVALIDINPUT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>572</LINE></INVALIDINPUT>
+  <lcd_data><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>601</LINE></lcd_data>
+  <SUBTRACT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>511</LINE></SUBTRACT>
+  <INVERT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>506</LINE></INVERT>
+  <REPEAT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>516</LINE></REPEAT>
+  <SAVENUMBER><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>531</LINE></SAVENUMBER>
+  <MORETEN><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>526</LINE></MORETEN>
+  <JUMP_SUBTRACT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>569</LINE></JUMP_SUBTRACT>
+  <PRINT_TOTAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>541</LINE></PRINT_TOTAL>
+  <PRINTNOW><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>544</LINE></PRINTNOW>
+  <finish_PRINT_TOTAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>564</LINE></finish_PRINT_TOTAL>
+  <print_sign><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>581</LINE></print_sign>
+  <HALT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>568</LINE></HALT>
+  <lcd_wait_loop><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>624</LINE></lcd_wait_loop>
+  <delayloop_1ms><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\calculator\calculator\main.asm</FILE><LINE>649</LINE></delayloop_1ms>
+ </LABELS>
+</ASSEMBLER_INFO>

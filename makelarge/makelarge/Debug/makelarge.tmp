@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\Debug\makelarge.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>makelarge.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>makelarge.map</FILE>
+  <FILE>makelarge.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <NUMBER><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</FILE><LINE>32</LINE></NUMBER>
+  <QUOTIENT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</FILE><LINE>33</LINE></QUOTIENT>
+  <TEMPO><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</FILE><LINE>34</LINE></TEMPO>
+  <TOTAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</FILE><LINE>35</LINE></TOTAL>
+  <ARRAY><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</FILE><LINE>36</LINE></ARRAY>
+  <SIGNS><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</FILE><LINE>37</LINE></SIGNS>
+  <INDIVIDUAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</FILE><LINE>38</LINE></INDIVIDUAL>
+  <SEPARATE_TOTAL><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</FILE><LINE>280</LINE></SEPARATE_TOTAL>
+  <SUBTRACT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</FILE><LINE>289</LINE></SUBTRACT>
+  <INVERT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</FILE><LINE>285</LINE></INVERT>
+  <REPEAT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</FILE><LINE>294</LINE></REPEAT>
+  <SAVENUMBER><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</FILE><LINE>309</LINE></SAVENUMBER>
+  <MORETEN><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</FILE><LINE>304</LINE></MORETEN>
+  <JUMP_SUBTRACT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</FILE><LINE>321</LINE></JUMP_SUBTRACT>
+  <HALT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\makelarge\makelarge\main.asm</FILE><LINE>319</LINE></HALT>
+ </LABELS>
+</ASSEMBLER_INFO>

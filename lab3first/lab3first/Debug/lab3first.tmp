@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3first\lab3first\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3first\lab3first\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3first\lab3first\Debug\lab3first.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab3first.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab3first.map</FILE>
+  <FILE>lab3first.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3first\lab3first\main.asm</FILE><LINE>21</LINE></RESET>
+  <EXT_INT0><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3first\lab3first\main.asm</FILE><LINE>49</LINE></EXT_INT0>
+  <EXT_INT1><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3first\lab3first\main.asm</FILE><LINE>66</LINE></EXT_INT1>
+  <main><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3first\lab3first\main.asm</FILE><LINE>82</LINE></main>
+  <PBDELAY><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3first\lab3first\main.asm</FILE><LINE>87</LINE></PBDELAY>
+  <DECREMENT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3first\lab3first\main.asm</FILE><LINE>55</LINE></DECREMENT>
+  <TOO><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3first\lab3first\main.asm</FILE><LINE>62</LINE></TOO>
+  <PRE><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3first\lab3first\main.asm</FILE><LINE>78</LINE></PRE>
+  <INCREMENT><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3first\lab3first\main.asm</FILE><LINE>74</LINE></INCREMENT>
+  <LOOP><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3first\lab3first\main.asm</FILE><LINE>84</LINE></LOOP>
+  <DDELAY><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3first\lab3first\main.asm</FILE><LINE>97</LINE></DDELAY>
+  <DDDELAY><FILE>C:\Users\JOVANNI\Documents\Atmel Studio\7.0\lab3first\lab3first\main.asm</FILE><LINE>107</LINE></DDDELAY>
+ </LABELS>
+</ASSEMBLER_INFO>
